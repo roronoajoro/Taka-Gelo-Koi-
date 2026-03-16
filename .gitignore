@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+google_credentials/
+*.json
+.env
+.vscode/
